@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: pranavkapse
+Build-Jdk: 17.0.10
+Implementation-Title: subscription
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cts
+Implementation-URL: https://spring.io/projects/spring-boot/subscription
+Created-By: Maven Integration for Eclipse
+
